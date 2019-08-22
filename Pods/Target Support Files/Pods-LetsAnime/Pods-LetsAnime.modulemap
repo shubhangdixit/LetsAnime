@@ -1,0 +1,6 @@
+module Pods_LetsAnime {
+  umbrella header "Pods-LetsAnime-umbrella.h"
+
+  export *
+  module * { export * }
+}
